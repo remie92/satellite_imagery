@@ -1,4 +1,12 @@
-# 🛰️ satellite_imagery
+```
+ _____       _       _ _ _ _            _ 
+/  ___|     | |     | | (_) |          | |
+\ `--.  __ _| |_ ___| | |_| |_ ___  ___| |
+ `--. \/ _` | __/ _ \ | | | __/ _ \/ __| |
+/\__/ / (_| | ||  __/ | | | ||  __/\__ \_|
+\____/ \__,_|\__\___|_|_|_|\__\___||___(_)                                                                     
+```
+
 
 Some satellite imagery that I got from my own atennas!  
 *(Currently only from the Meteor M2-3 and Meteor M2-4 sattelites)*
@@ -51,3 +59,10 @@ It's still a bit directional, but it seems to be way less sensitive to rotation 
 
 > I posted a few questions on Reddit, and [this person gave me a lot of information in this comment chain!](https://www.reddit.com/r/RTLSDR/comments/1oc9im1/comment/nkl2krq)  
 > So if you want to make you own, this might be a good start!
+
+Thanks for reading!
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/bba2c14d-bc26-4e53-a0de-ed633a5cd37a" alt="Mr Wirebug" width="500">
+</p>
+
