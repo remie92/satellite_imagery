@@ -35,10 +35,9 @@ My second antenna is a **QFH (quadrifilar helix antenna)**
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/529e6c81-7660-4abb-a0a0-d0f5817b97e2" />
 
 This one took a while to make, the actual building took an afternoon and evening, but it was a bit hard to find *any* instructions.  
-I eventually found a site that could generate to correct lengths for the frequency I needed to receive, but I was only like 50% sure I was building it right.  
-
-And it worked great!  
+I eventually found a site that could generate to correct lengths for the frequency I needed to receive, but I was only like 50% sure I was building it right.
+And it worked great! You can see the pictures on the github! 
 It's still a bit directional, but it seems to be way less sensitive to rotation and movement than the V - Dipole.  
 
- I posted a few questions on Reddit, and [this person gave me a lot of information in this comment chain!](https://www.reddit.com/r/RTLSDR/comments/1oc9im1/comment/nkl2krq)  
+> I posted a few questions on Reddit, and [this person gave me a lot of information in this comment chain!](https://www.reddit.com/r/RTLSDR/comments/1oc9im1/comment/nkl2krq)  
 > So if you want to make you own, this might be a good start!
