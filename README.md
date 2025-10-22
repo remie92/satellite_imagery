@@ -54,5 +54,7 @@ It's still a bit directional, but it seems to be way less sensitive to rotation 
 
 Thanks for reading!
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
-<img src="https://github.com/user-attachments/assets/bba2c14d-bc26-4e53-a0de-ed633a5cd37a" alt="Mr Wirebug" width="200">
+<p align="center">
+<img src="https://github.com/user-attachments/assets/bba2c14d-bc26-4e53-a0de-ed633a5cd37a" alt="Mr Wirebug" width="500">
+</p>
 
