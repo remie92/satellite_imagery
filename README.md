@@ -51,6 +51,7 @@ It's still a bit directional, but it seems to be way less sensitive to rotation 
 
 > I posted a few questions on Reddit, and [this person gave me a lot of information in this comment chain!](https://www.reddit.com/r/RTLSDR/comments/1oc9im1/comment/nkl2krq)  
 > So if you want to make you own, this might be a good start!
+Thanks for reading!
 <br> <br> <br> <br> <br> <br> <br> <br> <br> 
 <img src="https://github.com/user-attachments/assets/bba2c14d-bc26-4e53-a0de-ed633a5cd37a" alt="Mr Wirebug" width="200">
 
