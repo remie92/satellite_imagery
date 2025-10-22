@@ -13,7 +13,7 @@ Using a **RTL-SDR USB** with **SatDump** software!
 
 ## Github Page
 
-I'm uploading any good passes I get on here! To look at the final images, find the ones named: "msu_mr_rgb_MCIR_corrected_map.png", or "msu_mr_rgb_MCIR_corrected.png". (First one has visible lines between the countries, the latter one doesn't).
+I'm uploading any good passes I get on here! To look at the final images, find the ones named: `"msu_mr_rgb_MCIR_corrected_map.png"`, or `"msu_mr_rgb_MCIR_corrected.png"`. (First one has visible lines between the countries, the latter one doesn't).
 
 These are colored ones, and manually rotated by me, since they are generated upsidedown for some reason by SatDump. You might want to rotate them back if you want to use the product files in SatDump yourself.
 
