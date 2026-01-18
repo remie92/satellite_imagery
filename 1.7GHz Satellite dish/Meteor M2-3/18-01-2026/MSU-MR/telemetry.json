@@ -1,0 +1,3450 @@
+[
+    {
+        "msu_mr_id": 10,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Discrete gain mode for brightness range",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Restrict from below",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Limit from above",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Limit from above",
+            "fp2_ik_photo4": "Limit from above",
+            "fp3_ic_photo1": "Limit from above",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "enabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 9,
+            "Cold Body Temperature 1 (258K)": 251.64999999999998,
+            "Cold Body Temperature 2 (258K)": 248.14999999999998,
+            "Cold Body Temperature 3 (258K)": 294.65,
+            "Detector Temperature Channel 3": 226,
+            "Detector Temperature Channel 5": 11,
+            "Detector Temperature Channel 6": 54,
+            "High voltage control on FP VK1": 220,
+            "High voltage control on FP VK2": 48,
+            "Hot Body Temperature 1 (313K)": 313.15,
+            "Hot Body Temperature 2 (313K)": 337.15,
+            "Hot Body Temperature 3 (313K)": 335.65,
+            "IR Lenses temperatures": 36,
+            "Lamp Current Channel 1": 224,
+            "Lamp Current Channel 2": 194,
+            "Lamp Current Channel 3": 13
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 12,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 204,
+            "Cold Body Temperature 1 (258K)": 263.15,
+            "Cold Body Temperature 2 (258K)": 246.64999999999998,
+            "Cold Body Temperature 3 (258K)": 262.65,
+            "Detector Temperature Channel 3": 206,
+            "Detector Temperature Channel 5": 176,
+            "Detector Temperature Channel 6": 140,
+            "High voltage control on FP VK1": 85,
+            "High voltage control on FP VK2": 96,
+            "Hot Body Temperature 1 (313K)": 316.15,
+            "Hot Body Temperature 2 (313K)": 317.15,
+            "Hot Body Temperature 3 (313K)": 222.64999999999998,
+            "IR Lenses temperatures": 87,
+            "Lamp Current Channel 1": 143,
+            "Lamp Current Channel 2": 138,
+            "Lamp Current Channel 3": 140
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 2,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 9,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 4,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 236,
+            "Cold Body Temperature 1 (258K)": 262.65,
+            "Cold Body Temperature 2 (258K)": 262.65,
+            "Cold Body Temperature 3 (258K)": 238.64999999999998,
+            "Detector Temperature Channel 3": 206,
+            "Detector Temperature Channel 5": 101,
+            "Detector Temperature Channel 6": 142,
+            "High voltage control on FP VK1": 85,
+            "High voltage control on FP VK2": 98,
+            "Hot Body Temperature 1 (313K)": 314.15,
+            "Hot Body Temperature 2 (313K)": 317.15,
+            "Hot Body Temperature 3 (313K)": 223.14999999999998,
+            "IR Lenses temperatures": 87,
+            "Lamp Current Channel 1": 143,
+            "Lamp Current Channel 2": 138,
+            "Lamp Current Channel 3": 140
+        },
+        "msu_mr_id": 1,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "TEST mode 1 (a gradation wedge is formed only in 4, 5, 6 channels)",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 2,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "expand",
+            "channel1_mode": "Gain mode corresponding to model brightness B0",
+            "channel2_mode": "TEST mode 3 (video information is transmitted with 12-bit encoding and a reduced number of image elements in the channel for ground testing)",
+            "channel3_mode": "Gain mode corresponding to model brightness 0.25V0",
+            "channel4_mode": "Unknown Mode",
+            "channel5_mode": "TEST mode 3 (video information is transmitted with 12-bit encoding and a reduced number of image elements in the channel for ground testing)",
+            "channel6_mode": "Gain mode corresponding to model brightness 0.25V0",
+            "fp1_ic_photo1": "Restrict from below",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Limit from above",
+            "fp1_ic_photo4": "Limit from above",
+            "fp2_ik_photo1": "Limit from above",
+            "fp2_ik_photo2": "Limit from above",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Limit from above",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Limit from above",
+            "fp3_ic_photo3": "Restrict from below",
+            "fp3_ic_photo4": "Reserve",
+            "included_pu_rg": "disabled",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "closed",
+            "synchronization_1": "disabled",
+            "synchronization_2": "disabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 204,
+            "Cold Body Temperature 1 (258K)": 262.65,
+            "Cold Body Temperature 2 (258K)": 262.65,
+            "Cold Body Temperature 3 (258K)": 262.65,
+            "Detector Temperature Channel 3": 206,
+            "Detector Temperature Channel 5": 175,
+            "Detector Temperature Channel 6": 141,
+            "High voltage control on FP VK1": 85,
+            "High voltage control on FP VK2": 96,
+            "Hot Body Temperature 1 (313K)": 316.15,
+            "Hot Body Temperature 2 (313K)": 317.15,
+            "Hot Body Temperature 3 (313K)": 225.14999999999998,
+            "IR Lenses temperatures": 87,
+            "Lamp Current Channel 1": 143,
+            "Lamp Current Channel 2": 138,
+            "Lamp Current Channel 3": 140
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Unknown Mode",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Restrict from below",
+            "fp2_ik_photo4": "Limit from above",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Restrict from below",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 2,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 204,
+            "Cold Body Temperature 1 (258K)": 262.65,
+            "Cold Body Temperature 2 (258K)": 262.65,
+            "Cold Body Temperature 3 (258K)": 262.65,
+            "Detector Temperature Channel 3": 207,
+            "Detector Temperature Channel 5": 175,
+            "Detector Temperature Channel 6": 140,
+            "High voltage control on FP VK1": 85,
+            "High voltage control on FP VK2": 96,
+            "Hot Body Temperature 1 (313K)": 315.65,
+            "Hot Body Temperature 2 (313K)": 317.15,
+            "Hot Body Temperature 3 (313K)": 222.64999999999998,
+            "IR Lenses temperatures": 87,
+            "Lamp Current Channel 1": 143,
+            "Lamp Current Channel 2": 138,
+            "Lamp Current Channel 3": 140
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Restrict from below",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Restrict from below",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Limit from above",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "open",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "TEST mode 1 (a gradation wedge is formed only in 4, 5, 6 channels)",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "TEST mode 3 (video information is transmitted with 12-bit encoding and a reduced number of image elements in the channel for ground testing)",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Limit from above",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Restrict from below",
+            "fp3_ic_photo2": "Restrict from below",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "enabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 204,
+            "Cold Body Temperature 1 (258K)": 262.65,
+            "Cold Body Temperature 2 (258K)": 270.65,
+            "Cold Body Temperature 3 (258K)": 262.65,
+            "Detector Temperature Channel 3": 238,
+            "Detector Temperature Channel 5": 15,
+            "Detector Temperature Channel 6": 156,
+            "High voltage control on FP VK1": 85,
+            "High voltage control on FP VK2": 96,
+            "Hot Body Temperature 1 (313K)": 316.15,
+            "Hot Body Temperature 2 (313K)": 317.15,
+            "Hot Body Temperature 3 (313K)": 222.64999999999998,
+            "IR Lenses temperatures": 87,
+            "Lamp Current Channel 1": 143,
+            "Lamp Current Channel 2": 138,
+            "Lamp Current Channel 3": 140
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "TEST mode 1 (a gradation wedge is formed only in 4, 5, 6 channels)",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 2,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "TEST mode 1 (a gradation wedge is formed only in 4, 5, 6 channels)",
+            "channel4_mode": "TEST mode 1 (a gradation wedge is formed only in 4, 5, 6 channels)",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Restrict from below",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Reserve",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 2,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 204,
+            "Cold Body Temperature 1 (258K)": 262.65,
+            "Cold Body Temperature 2 (258K)": 262.65,
+            "Cold Body Temperature 3 (258K)": 262.65,
+            "Detector Temperature Channel 3": 206,
+            "Detector Temperature Channel 5": 175,
+            "Detector Temperature Channel 6": 141,
+            "High voltage control on FP VK1": 85,
+            "High voltage control on FP VK2": 224,
+            "Hot Body Temperature 1 (313K)": 316.15,
+            "Hot Body Temperature 2 (313K)": 317.15,
+            "Hot Body Temperature 3 (313K)": 218.64999999999998,
+            "IR Lenses temperatures": 87,
+            "Lamp Current Channel 1": 143,
+            "Lamp Current Channel 2": 138,
+            "Lamp Current Channel 3": 140
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "disabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 204,
+            "Cold Body Temperature 1 (258K)": 262.65,
+            "Cold Body Temperature 2 (258K)": 231.64999999999998,
+            "Cold Body Temperature 3 (258K)": 262.65,
+            "Detector Temperature Channel 3": 206,
+            "Detector Temperature Channel 5": 143,
+            "Detector Temperature Channel 6": 140,
+            "High voltage control on FP VK1": 85,
+            "High voltage control on FP VK2": 100,
+            "Hot Body Temperature 1 (313K)": 316.15,
+            "Hot Body Temperature 2 (313K)": 253.14999999999998,
+            "Hot Body Temperature 3 (313K)": 222.64999999999998,
+            "IR Lenses temperatures": 87,
+            "Lamp Current Channel 1": 143,
+            "Lamp Current Channel 2": 202,
+            "Lamp Current Channel 3": 140
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Unknown Mode",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Reserve",
+            "fp2_ik_photo1": "Restrict from below",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Gain mode corresponding to model brightness B0",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Gain mode corresponding to model brightness B0",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Unknown Mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Limit from above",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "disabled",
+            "leveling_channel_123": "enabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Limit from above",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Unknown Mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Restrict from below",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "included",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Restrict from below",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Unknown Mode",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Limit from above",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 2,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Gain mode corresponding to model brightness 0.25V0",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Restrict from below",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Gain mode corresponding to model brightness B0",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "closed",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 204,
+            "Cold Body Temperature 1 (258K)": 262.65,
+            "Cold Body Temperature 2 (258K)": 262.65,
+            "Cold Body Temperature 3 (258K)": 262.65,
+            "Detector Temperature Channel 3": 206,
+            "Detector Temperature Channel 5": 174,
+            "Detector Temperature Channel 6": 140,
+            "High voltage control on FP VK1": 214,
+            "High voltage control on FP VK2": 97,
+            "Hot Body Temperature 1 (313K)": 316.15,
+            "Hot Body Temperature 2 (313K)": 317.15,
+            "Hot Body Temperature 3 (313K)": 223.14999999999998,
+            "IR Lenses temperatures": 88,
+            "Lamp Current Channel 1": 143,
+            "Lamp Current Channel 2": 138,
+            "Lamp Current Channel 3": 136
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Limit from above",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "disabled",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "included",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Unknown Mode",
+            "channel2_mode": "Unknown Mode",
+            "channel3_mode": "Gain mode corresponding to model brightness 0.5V0",
+            "channel4_mode": "Unknown Mode",
+            "channel5_mode": "Unknown Mode",
+            "channel6_mode": "Gain mode corresponding to model brightness 0.5V0",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Limit from above",
+            "fp1_ic_photo3": "Limit from above",
+            "fp1_ic_photo4": "Reserve",
+            "fp2_ik_photo1": "Restrict from below",
+            "fp2_ik_photo2": "Restrict from below",
+            "fp2_ik_photo3": "Reserve",
+            "fp2_ik_photo4": "Limit from above",
+            "fp3_ic_photo1": "Reserve",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "open",
+            "protective_cover_2": "closed",
+            "synchronization_1": "enabled",
+            "synchronization_2": "disabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 200,
+            "Cold Body Temperature 1 (258K)": 262.65,
+            "Cold Body Temperature 2 (258K)": 261.65,
+            "Cold Body Temperature 3 (258K)": 262.65,
+            "Detector Temperature Channel 3": 206,
+            "Detector Temperature Channel 5": 174,
+            "Detector Temperature Channel 6": 140,
+            "High voltage control on FP VK1": 85,
+            "High voltage control on FP VK2": 97,
+            "Hot Body Temperature 1 (313K)": 308.15,
+            "Hot Body Temperature 2 (313K)": 317.15,
+            "Hot Body Temperature 3 (313K)": 234.64999999999998,
+            "IR Lenses temperatures": 120,
+            "Lamp Current Channel 1": 31,
+            "Lamp Current Channel 2": 138,
+            "Lamp Current Channel 3": 140
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Limit from above",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 204,
+            "Cold Body Temperature 1 (258K)": 262.65,
+            "Cold Body Temperature 2 (258K)": 263.15,
+            "Cold Body Temperature 3 (258K)": 262.65,
+            "Detector Temperature Channel 3": 206,
+            "Detector Temperature Channel 5": 174,
+            "Detector Temperature Channel 6": 172,
+            "High voltage control on FP VK1": 85,
+            "High voltage control on FP VK2": 97,
+            "Hot Body Temperature 1 (313K)": 316.15,
+            "Hot Body Temperature 2 (313K)": 317.15,
+            "Hot Body Temperature 3 (313K)": 222.64999999999998,
+            "IR Lenses temperatures": 92,
+            "Lamp Current Channel 1": 143,
+            "Lamp Current Channel 2": 138,
+            "Lamp Current Channel 3": 140
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Gain mode corresponding to model brightness B0",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Restrict from below",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Restrict from below",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 9,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "disabled",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 2,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 9,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 205,
+            "Cold Body Temperature 1 (258K)": 262.65,
+            "Cold Body Temperature 2 (258K)": 262.65,
+            "Cold Body Temperature 3 (258K)": 262.65,
+            "Detector Temperature Channel 3": 206,
+            "Detector Temperature Channel 5": 174,
+            "Detector Temperature Channel 6": 204,
+            "High voltage control on FP VK1": 84,
+            "High voltage control on FP VK2": 98,
+            "Hot Body Temperature 1 (313K)": 315.65,
+            "Hot Body Temperature 2 (313K)": 321.15,
+            "Hot Body Temperature 3 (313K)": 222.64999999999998,
+            "IR Lenses temperatures": 87,
+            "Lamp Current Channel 1": 143,
+            "Lamp Current Channel 2": 138,
+            "Lamp Current Channel 3": 143
+        },
+        "msu_mr_id": 2,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "TEST mode 2 (a gradation wedge is formed in all channels)",
+            "channel4_mode": "Gain mode corresponding to model brightness B0",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Limit from above",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Limit from above",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 7,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 14,
+            "Cold Body Temperature 1 (258K)": 267.15,
+            "Cold Body Temperature 2 (258K)": 248.64999999999998,
+            "Cold Body Temperature 3 (258K)": 335.15,
+            "Detector Temperature Channel 3": 65,
+            "Detector Temperature Channel 5": 12,
+            "Detector Temperature Channel 6": 57,
+            "High voltage control on FP VK1": 208,
+            "High voltage control on FP VK2": 48,
+            "Hot Body Temperature 1 (313K)": 301.15,
+            "Hot Body Temperature 2 (313K)": 313.15,
+            "Hot Body Temperature 3 (313K)": 271.65,
+            "IR Lenses temperatures": 53,
+            "Lamp Current Channel 1": 0,
+            "Lamp Current Channel 2": 67,
+            "Lamp Current Channel 3": 14
+        },
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 82,
+            "Cold Body Temperature 1 (258K)": 228.14999999999998,
+            "Cold Body Temperature 2 (258K)": 283.65,
+            "Cold Body Temperature 3 (258K)": 330.65,
+            "Detector Temperature Channel 3": 222,
+            "Detector Temperature Channel 5": 86,
+            "Detector Temperature Channel 6": 106,
+            "High voltage control on FP VK1": 173,
+            "High voltage control on FP VK2": 181,
+            "Hot Body Temperature 1 (313K)": 314.65,
+            "Hot Body Temperature 2 (313K)": 312.65,
+            "Hot Body Temperature 3 (313K)": 230.14999999999998,
+            "IR Lenses temperatures": 111,
+            "Lamp Current Channel 1": 181,
+            "Lamp Current Channel 2": 214,
+            "Lamp Current Channel 3": 90
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 2,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Restrict from below",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 196,
+            "Cold Body Temperature 1 (258K)": 262.65,
+            "Cold Body Temperature 2 (258K)": 262.65,
+            "Cold Body Temperature 3 (258K)": 262.65,
+            "Detector Temperature Channel 3": 206,
+            "Detector Temperature Channel 5": 174,
+            "Detector Temperature Channel 6": 140,
+            "High voltage control on FP VK1": 85,
+            "High voltage control on FP VK2": 97,
+            "Hot Body Temperature 1 (313K)": 316.15,
+            "Hot Body Temperature 2 (313K)": 317.15,
+            "Hot Body Temperature 3 (313K)": 214.64999999999998,
+            "IR Lenses temperatures": 88,
+            "Lamp Current Channel 1": 159,
+            "Lamp Current Channel 2": 138,
+            "Lamp Current Channel 3": 140
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 204,
+            "Cold Body Temperature 1 (258K)": 262.65,
+            "Cold Body Temperature 2 (258K)": 263.15,
+            "Cold Body Temperature 3 (258K)": 294.65,
+            "Detector Temperature Channel 3": 206,
+            "Detector Temperature Channel 5": 184,
+            "Detector Temperature Channel 6": 140,
+            "High voltage control on FP VK1": 85,
+            "High voltage control on FP VK2": 97,
+            "Hot Body Temperature 1 (313K)": 321.15,
+            "Hot Body Temperature 2 (313K)": 321.15,
+            "Hot Body Temperature 3 (313K)": 222.64999999999998,
+            "IR Lenses temperatures": 88,
+            "Lamp Current Channel 1": 15,
+            "Lamp Current Channel 2": 138,
+            "Lamp Current Channel 3": 140
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 206,
+            "Cold Body Temperature 1 (258K)": 262.65,
+            "Cold Body Temperature 2 (258K)": 262.65,
+            "Cold Body Temperature 3 (258K)": 262.65,
+            "Detector Temperature Channel 3": 202,
+            "Detector Temperature Channel 5": 142,
+            "Detector Temperature Channel 6": 140,
+            "High voltage control on FP VK1": 87,
+            "High voltage control on FP VK2": 96,
+            "Hot Body Temperature 1 (313K)": 316.15,
+            "Hot Body Temperature 2 (313K)": 309.15,
+            "Hot Body Temperature 3 (313K)": 223.14999999999998,
+            "IR Lenses temperatures": 92,
+            "Lamp Current Channel 1": 157,
+            "Lamp Current Channel 2": 138,
+            "Lamp Current Channel 3": 140
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 5,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 2,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "analog_tlm": {
+            "Baseplate Temperature": 220,
+            "Cold Body Temperature 1 (258K)": 262.65,
+            "Cold Body Temperature 2 (258K)": 262.65,
+            "Cold Body Temperature 3 (258K)": 247.14999999999998,
+            "Detector Temperature Channel 3": 206,
+            "Detector Temperature Channel 5": 173,
+            "Detector Temperature Channel 6": 12,
+            "High voltage control on FP VK1": 90,
+            "High voltage control on FP VK2": 97,
+            "Hot Body Temperature 1 (313K)": 316.15,
+            "Hot Body Temperature 2 (313K)": 285.15,
+            "Hot Body Temperature 3 (313K)": 222.64999999999998,
+            "IR Lenses temperatures": 152,
+            "Lamp Current Channel 1": 143,
+            "Lamp Current Channel 2": 202,
+            "Lamp Current Channel 3": 76
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 2,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 11,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "expand",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Restrict from below",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "digital_tlm": {
+            "bos_operating_mode": "basic",
+            "channel1_mode": "Discrete gain mode for brightness range",
+            "channel2_mode": "Discrete gain mode for brightness range",
+            "channel3_mode": "Discrete gain mode for brightness range",
+            "channel4_mode": "Discrete gain mode for brightness range",
+            "channel5_mode": "Linear transfer characteristic mode",
+            "channel6_mode": "Linear transfer characteristic mode",
+            "fp1_ic_photo1": "Norm",
+            "fp1_ic_photo2": "Norm",
+            "fp1_ic_photo3": "Norm",
+            "fp1_ic_photo4": "Restrict from below",
+            "fp2_ik_photo1": "Norm",
+            "fp2_ik_photo2": "Norm",
+            "fp2_ik_photo3": "Norm",
+            "fp2_ik_photo4": "Norm",
+            "fp3_ic_photo1": "Norm",
+            "fp3_ic_photo2": "Norm",
+            "fp3_ic_photo3": "Norm",
+            "fp3_ic_photo4": "Norm",
+            "included_pu_rg": "included",
+            "leveling_channel_123": "disabled",
+            "presenter_dns_sensor": "reserve",
+            "protective_cover_1": "closed",
+            "protective_cover_2": "open",
+            "synchronization_1": "enabled",
+            "synchronization_2": "enabled"
+        },
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 7,
+        "msu_mr_set": "Unknown"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 1,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    },
+    {
+        "msu_mr_id": 3,
+        "msu_mr_set": "backup"
+    }
+]
